@@ -1,0 +1,19 @@
+{
+  "platform": false,
+  "username": false,
+  "first_name": false,
+  "last_name": false,
+  "user_id": false,
+  "user_url": false,
+  "intern_id": false,
+  "thumb_url": false,
+  "thumb_width": false,
+  "thumb_height": false,
+  "img_url": false,
+  "img_width": false,
+  "img_height": false,
+  "native_url": false,
+  "native_width": false,
+  "native_height": false,
+  "source": false
+}
